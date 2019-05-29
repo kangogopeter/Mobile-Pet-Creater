@@ -2,4 +2,4 @@
 MOBILE_SOFTWARE
 
 
-![Mobile Logo](/images/logo.gif)
+   ![Mobile Logo](https://github.com/kangogopeter/Mobile-Pet-Creater/blob/master/images/skell.gif)
