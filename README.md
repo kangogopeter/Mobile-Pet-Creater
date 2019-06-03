@@ -6,4 +6,4 @@
                 ##AIM:~.~
               
   
-## TO DEVELOP YOUR FIRST ANDROID IN AFRICA
+## TO DEVELOP YOUR FIRST ANDROID WITH NO TIME SOON
